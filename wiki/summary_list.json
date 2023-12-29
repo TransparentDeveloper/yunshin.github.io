@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "thumbnail": "/assets/tech-wiki/list-thumbnail/thumbnail1.png",
+    "title": "1번 포스트입니다.",
+    "description": "천체를 관측해요 천체를 관측해요.",
+    "date": "2023-01-15"
+  },
+  {
+     "id": "2",
+     "thumbnail": "/assets/tech-wiki/list-thumbnail/thumbnail2.png",
+     "title": "2번 포스트입니다.",
+     "description": "천체를 관측해요 천체를 관측해요.",
+     "date": "2023-09-14"
+  },
+]
