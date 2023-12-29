@@ -1,16 +1,17 @@
 [
   {
-    "id": "1",
-    "thumbnail": "/assets/tech-wiki/list-thumbnail/thumbnail1.png",
-    "title": "1번 포스트입니다.",
-    "description": "천체를 관측해요 천체를 관측해요.",
-    "date": "2023-01-15"
+    id: '1',
+    thumbnail: `https://koosmoos-test-bucket.s3.ap-northeast-2.amazonaws.com/techwiki/thumnail_list/thumbnail1.png`,
+    title: '민간인 우주여행에 대해서',
+    description: '우주 여행을 떠나는 꿈을 꾸어본 적이 있나요?항상 보고있었지만, 닿지 못했던 그곳',
+    date: '2023-12-06',
   },
   {
-     "id": "2",
-     "thumbnail": "/assets/tech-wiki/list-thumbnail/thumbnail2.png",
-     "title": "2번 포스트입니다.",
-     "description": "천체를 관측해요 천체를 관측해요.",
-     "date": "2023-09-14"
+    id: '2',
+    thumbnail: `https://koosmoos-test-bucket.s3.ap-northeast-2.amazonaws.com/techwiki/thumnail_list/thumbnail2.png`,
+    title: '대한민국의 누리호',
+    description:
+      '천체를 관측해요 천체를 관측해요 천체를 관측해요 천체를 관측해요. 천체를 관측해요 천체를 관측해요 천체를 관측해요',
+    date: '2023-09-14',
   },
 ]
